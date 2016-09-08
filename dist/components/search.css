@@ -27,7 +27,7 @@
   line-height: 1.2142em;
   padding: 0.67861429em 1em;
   font-size: 1em;
-  background: #FFFFFF;
+  background: #FDFDFD;
   border: 1px solid rgba(34, 36, 38, 0.15);
   color: rgba(0, 0, 0, 0.87);
   box-shadow: 0em 0em 0em 0em transparent inset;
@@ -56,7 +56,6 @@
   top: 100%;
   left: 0%;
   -webkit-transform-origin: center top;
-      -ms-transform-origin: center top;
           transform-origin: center top;
   white-space: normal;
   background: #FFFFFF;
@@ -128,7 +127,7 @@
 }
 .ui.search > .results .result .price {
   float: right;
-  color: #21BA45;
+  color: #7EAC6B;
 }
 
 /*--------------
@@ -173,7 +172,7 @@
 
 .ui.search > .prompt:focus {
   border-color: rgba(34, 36, 38, 0.35);
-  background: #FFFFFF;
+  background: #FDFDFD;
   color: rgba(0, 0, 0, 0.95);
 }
 
@@ -205,7 +204,7 @@
   -webkit-animation-iteration-count: infinite;
           animation-iteration-count: infinite;
   border-radius: 500rem;
-  border-color: #767676 transparent transparent;
+  border-color: #909293 transparent transparent;
   border-style: solid;
   border-width: 0.2em;
   box-shadow: 0px 0px 0px 1px transparent;
@@ -283,7 +282,7 @@
 }
 .ui.search.selection > .icon.input > .remove.icon:hover {
   opacity: 1;
-  color: #DB2828;
+  color: #EE1C24;
 }
 
 /*--------------
@@ -318,7 +317,7 @@
 
 /* Category Result */
 .ui.category.search > .results .category .result {
-  background: #FFFFFF;
+  background: #FDFDFD;
   margin-left: 100px;
   border-left: 1px solid rgba(34, 36, 38, 0.15);
   border-bottom: 1px solid rgba(34, 36, 38, 0.1);

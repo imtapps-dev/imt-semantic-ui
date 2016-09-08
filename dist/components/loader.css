@@ -24,7 +24,6 @@
   text-align: center;
   z-index: 1000;
   -webkit-transform: translateX(-50%) translateY(-50%);
-      -ms-transform: translateX(-50%) translateY(-50%);
           transform: translateX(-50%) translateY(-50%);
 }
 
@@ -53,7 +52,7 @@
   -webkit-animation-iteration-count: infinite;
           animation-iteration-count: infinite;
   border-radius: 500rem;
-  border-color: #767676 transparent transparent;
+  border-color: #909293 transparent transparent;
   border-style: solid;
   border-width: 0.2em;
   box-shadow: 0px 0px 0px 1px transparent;
@@ -149,7 +148,7 @@
   border-color: rgba(255, 255, 255, 0.15);
 }
 .ui.dimmer .ui.loader:after {
-  border-color: #FFFFFF transparent transparent;
+  border-color: #FDFDFD transparent transparent;
 }
 
 /* White Dimmer (Inverted) */
@@ -160,7 +159,7 @@
   border-color: rgba(0, 0, 0, 0.1);
 }
 .ui.inverted.dimmer .ui.loader:after {
-  border-color: #767676 transparent transparent;
+  border-color: #909293 transparent transparent;
 }
 
 
@@ -306,7 +305,7 @@
   border-color: rgba(255, 255, 255, 0.15);
 }
 .ui.inverted.loader:after {
-  border-top-color: #FFFFFF;
+  border-top-color: #FDFDFD;
 }
 
 /*-------------------
@@ -320,7 +319,6 @@
   left: 0em;
   top: 0em;
   -webkit-transform: none;
-      -ms-transform: none;
           transform: none;
 }
 .ui.inline.loader.active,

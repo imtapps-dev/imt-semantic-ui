@@ -167,7 +167,6 @@
 .ui.dropdown .menu > .input {
   width: auto;
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   margin: 1.14285714rem 0.78571429rem;
@@ -348,11 +347,10 @@
   white-space: normal;
   outline: 0;
   -webkit-transform: rotateZ(0deg);
-      -ms-transform: rotate(0deg);
           transform: rotateZ(0deg);
   min-width: 14em;
   min-height: 2.7142em;
-  background: #FFFFFF;
+  background: #FDFDFD;
   display: inline-block;
   padding: 0.78571429em 2.1em 0.78571429em 1em;
   color: rgba(0, 0, 0, 0.87);
@@ -793,7 +791,7 @@ select.ui.dropdown {
   -webkit-animation-iteration-count: infinite;
           animation-iteration-count: infinite;
   border-radius: 500rem;
-  border-color: #767676 transparent transparent;
+  border-color: #909293 transparent transparent;
   border-style: solid;
   border-width: 0.2em;
 }
@@ -1209,12 +1207,11 @@ select.ui.dropdown {
   content: '';
   visibility: visible;
   -webkit-transform: rotate(45deg);
-      -ms-transform: rotate(45deg);
           transform: rotate(45deg);
   width: 0.5em;
   height: 0.5em;
   box-shadow: -1px -1px 0px 1px rgba(34, 36, 38, 0.15);
-  background: #FFFFFF;
+  background: #FDFDFD;
   z-index: 2;
 }
 .ui.pointing.dropdown > .menu:after {
@@ -1244,7 +1241,6 @@ select.ui.dropdown {
   right: auto;
   margin: 0em;
   -webkit-transform: rotate(45deg);
-      -ms-transform: rotate(45deg);
           transform: rotate(45deg);
 }
 
@@ -1262,7 +1258,6 @@ select.ui.dropdown {
   right: 1em;
   margin: 0em;
   -webkit-transform: rotate(45deg);
-      -ms-transform: rotate(45deg);
           transform: rotate(45deg);
 }
 
@@ -1278,7 +1273,6 @@ select.ui.dropdown {
   left: -0.25em;
   margin: 0em 0em 0em 0em;
   -webkit-transform: rotate(-45deg);
-      -ms-transform: rotate(-45deg);
           transform: rotate(-45deg);
 }
 
@@ -1295,7 +1289,6 @@ select.ui.dropdown {
   right: -0.25em;
   margin: 0em 0em 0em 0em;
   -webkit-transform: rotate(135deg);
-      -ms-transform: rotate(135deg);
           transform: rotate(135deg);
 }
 
@@ -1313,7 +1306,6 @@ select.ui.dropdown {
   right: auto;
   margin: 0em;
   -webkit-transform: rotate(-135deg);
-      -ms-transform: rotate(-135deg);
           transform: rotate(-135deg);
 }
 
