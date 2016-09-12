@@ -1,0 +1,70 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@pageBackground      : #FDFDFD;
+/* @textColor           : #313233; */
+
+/*-------------------
+    Brand Colors
+--------------------*/
+
+@primaryColor        : @red;
+@secondaryColor      : @black;
+
+@lightPrimaryColor   : @lightRed;
+@lightSecondaryColor : @lightBlack;
+
+/*-------------------
+      Site Colors
+--------------------*/
+
+/*---  Colors  ---*/
+@red              : #EE1C24;
+@orange           : #F0852C;
+@yellow           : #F1ED34;
+@olive            : #B5CC18;
+@green            : #7EAC6B;
+@teal             : #00B5AD;
+@blue             : #0B6AA1;
+@violet           : #6435C9;
+@purple           : #7D4363;
+@pink             : #E03997;
+@brown            : #A5673F;
+@grey             : #909293;
+@black            : #313233;
+
+/*---  Light Colors  ---*/
+@lightRed         : #FF695E;
+@lightOrange      : #FF851B;
+@lightYellow      : #FFE21F;
+@lightOlive       : #D9E778;
+@lightGreen       : #2ECC40;
+@lightTeal        : #6DFFFF;
+@lightBlue        : #54C8FF;
+@lightViolet      : #A291FB;
+@lightPurple      : #DC73FF;
+@lightPink        : #FF8EDF;
+@lightBrown       : #D67C1C;
+@lightGrey        : #DCDDDE;
+@lightBlack       : #545454;
+
+/*---   Neutrals  ---*/
+@fullBlack        : #000000;
+/* @offWhite         : #FDFDFD; */
+/* @darkWhite        : #C0C1C2; */
+/* @midWhite         : #FDFDFD; */
+@white            : #FDFDFD;
+
+/*--- Colored Backgrounds ---*/
+@redBackground    : #FFE8E6;
+@orangeBackground : #FFEDDE;
+@yellowBackground : #FFF8DB;
+@oliveBackground  : #FBFDEF;
+@greenBackground  : #E5F9E7;
+@tealBackground   : #E1F7F7;
+@blueBackground   : #DFF0FF;
+@violetBackground : #EAE7FF;
+@purpleBackground : #F6E7FF;
+@pinkBackground   : #FFE3FB;
+@brownBackground  : #F1E2D3;
