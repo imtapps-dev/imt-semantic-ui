@@ -100,7 +100,7 @@
 }
 .ui.calendar .ui.table tr .disabled {
   pointer-events: none;
-  color: rgba(40, 40, 40, 0.3);
+  color: rgba(49, 50, 51, 0.3);
 }
 
 /*--------------
@@ -111,13 +111,13 @@
   font-weight: bold;
 }
 .ui.calendar .ui.table tr td.range {
-  background: rgba(0, 0, 0, 0.05);
-  color: rgba(0, 0, 0, 0.95);
+  background: rgba(49, 50, 51, 0.05);
+  color: rgba(49, 50, 51, 0.95);
   box-shadow: none;
 }
 .ui.calendar .ui.table.inverted tr td.range {
-  background: rgba(255, 255, 255, 0.08);
-  color: #ffffff;
+  background: rgba(253, 253, 253, 0.08);
+  color: #fdfdfd;
   box-shadow: none;
 }
 .ui.calendar .calendar:focus .ui.table tbody tr td.focus,

@@ -21,7 +21,7 @@
   background-color: #E8E8E8;
   background-image: none;
   padding: 0.5833em 0.833em;
-  color: rgba(0, 0, 0, 0.6);
+  color: rgba(49, 50, 51, 0.6);
   text-transform: none;
   font-weight: bold;
   border: 0px solid transparent;
@@ -160,7 +160,7 @@ a.ui.label {
   border-radius: 0.28571429rem 0em 0em 0.28571429rem;
 }
 .ui.image.label .detail {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(49, 50, 51, 0.1);
   margin: -0.5833em -0.833em -0.5833em 0.5em;
   padding: 0.5833em 0.833em;
   border-radius: 0em 0.28571429rem 0.28571429rem 0em;
@@ -434,11 +434,11 @@ a.ui.label:hover {
   background-color: #E0E0E0;
   border-color: #E0E0E0;
   background-image: none;
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(49, 50, 51, 0.8);
 }
 .ui.labels a.label:hover:before,
 a.ui.label:hover:before {
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(49, 50, 51, 0.8);
 }
 
 /*-------------------
@@ -449,12 +449,12 @@ a.ui.label:hover:before {
   background-color: #D0D0D0;
   border-color: #D0D0D0;
   background-image: none;
-  color: rgba(0, 0, 0, 0.95);
+  color: rgba(49, 50, 51, 0.95);
 }
 .ui.active.label:before {
   background-color: #D0D0D0;
   background-image: none;
-  color: rgba(0, 0, 0, 0.95);
+  color: rgba(49, 50, 51, 0.95);
 }
 
 /*-------------------
@@ -466,13 +466,13 @@ a.ui.active.label:hover {
   background-color: #C8C8C8;
   border-color: #C8C8C8;
   background-image: none;
-  color: rgba(0, 0, 0, 0.95);
+  color: rgba(49, 50, 51, 0.95);
 }
 .ui.labels a.active.label:ActiveHover:before,
 a.ui.active.label:ActiveHover:before {
   background-color: #C8C8C8;
   background-image: none;
-  color: rgba(0, 0, 0, 0.95);
+  color: rgba(49, 50, 51, 0.95);
 }
 
 /*-------------------
@@ -1043,8 +1043,8 @@ a.ui.basic.black.label:hover {
 
 .ui.basic.label {
   background: none #FDFDFD;
-  border: 1px solid rgba(34, 36, 38, 0.15);
-  color: rgba(0, 0, 0, 0.87);
+  border: 1px solid rgba(49, 50, 51, 0.15);
+  color: #313233;
   box-shadow: none;
 }
 
@@ -1052,8 +1052,8 @@ a.ui.basic.black.label:hover {
 a.ui.basic.label:hover {
   text-decoration: none;
   background: none #FDFDFD;
-  color: #1e70bf;
-  box-shadow: 1px solid rgba(34, 36, 38, 0.15);
+  color: #005d92;
+  box-shadow: 1px solid rgba(49, 50, 51, 0.15);
   box-shadow: none;
 }
 
@@ -1078,7 +1078,7 @@ a.ui.basic.label:hover {
 
 .ui.inverted.labels .label,
 .ui.inverted.label {
-  color: rgba(255, 255, 255, 0.9) !important;
+  color: rgba(253, 253, 253, 0.9) !important;
 }
 
 /*-------------------

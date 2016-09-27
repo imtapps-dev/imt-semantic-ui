@@ -220,7 +220,7 @@ i.red.icon {
   color: #EE1C24 !important;
 }
 i.inverted.red.icon {
-  color: #FF695E !important;
+  color: rgba(238, 28, 36, 0.85) !important;
 }
 i.inverted.bordered.red.icon,
 i.inverted.circular.red.icon {
@@ -233,7 +233,7 @@ i.orange.icon {
   color: #F0852C !important;
 }
 i.inverted.orange.icon {
-  color: #FF851B !important;
+  color: rgba(240, 133, 44, 0.85) !important;
 }
 i.inverted.bordered.orange.icon,
 i.inverted.circular.orange.icon {
@@ -246,7 +246,7 @@ i.yellow.icon {
   color: #F1ED34 !important;
 }
 i.inverted.yellow.icon {
-  color: #FFE21F !important;
+  color: rgba(241, 237, 51, 0.85) !important;
 }
 i.inverted.bordered.yellow.icon,
 i.inverted.circular.yellow.icon {
@@ -272,7 +272,7 @@ i.green.icon {
   color: #7EAC6B !important;
 }
 i.inverted.green.icon {
-  color: #2ECC40 !important;
+  color: rgba(126, 172, 107, 0.85) !important;
 }
 i.inverted.bordered.green.icon,
 i.inverted.circular.green.icon {
@@ -298,7 +298,7 @@ i.blue.icon {
   color: #0B6AA1 !important;
 }
 i.inverted.blue.icon {
-  color: #54C8FF !important;
+  color: rgba(11, 106, 161, 0.85) !important;
 }
 i.inverted.bordered.blue.icon,
 i.inverted.circular.blue.icon {
@@ -324,7 +324,7 @@ i.purple.icon {
   color: #7D4363 !important;
 }
 i.inverted.purple.icon {
-  color: #DC73FF !important;
+  color: rgba(125, 67, 99, 0.85) !important;
 }
 i.inverted.bordered.purple.icon,
 i.inverted.circular.purple.icon {
@@ -363,7 +363,7 @@ i.grey.icon {
   color: #909293 !important;
 }
 i.inverted.grey.icon {
-  color: #DCDDDE !important;
+  color: #EFF1F2 !important;
 }
 i.inverted.bordered.grey.icon,
 i.inverted.circular.grey.icon {
@@ -376,7 +376,7 @@ i.black.icon {
   color: #313233 !important;
 }
 i.inverted.black.icon {
-  color: #545454 !important;
+  color: rgba(49, 50, 51, 0.85) !important;
 }
 i.inverted.bordered.black.icon,
 i.inverted.circular.black.icon {

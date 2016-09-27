@@ -23,7 +23,7 @@
   font-weight: bold;
   line-height: 1.2857em;
   text-transform: none;
-  color: rgba(0, 0, 0, 0.87);
+  color: #313233;
 }
 .ui.header:first-child {
   margin-top: -0.14285em;
@@ -43,7 +43,7 @@
   margin: 0em;
   font-size: 1rem;
   line-height: 1.2em;
-  color: rgba(0, 0, 0, 0.6);
+  color: rgba(49, 50, 51, 0.6);
 }
 
 /*--------------
@@ -298,17 +298,17 @@ h5.ui.header .sub.header {
   color: #FDFDFD;
 }
 .ui.inverted.header .sub.header {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(253, 253, 253, 0.8);
 }
 .ui.inverted.attached.header {
-  background: #545454 -webkit-linear-gradient(transparent, rgba(0, 0, 0, 0.05));
-  background: #545454 linear-gradient(transparent, rgba(0, 0, 0, 0.05));
+  background: rgba(49, 50, 51, 0.85) -webkit-linear-gradient(transparent, rgba(49, 50, 51, 0.05));
+  background: rgba(49, 50, 51, 0.85) linear-gradient(transparent, rgba(49, 50, 51, 0.05));
   box-shadow: none;
   border-color: transparent;
 }
 .ui.inverted.block.header {
-  background: #545454 -webkit-linear-gradient(transparent, rgba(0, 0, 0, 0.05));
-  background: #545454 linear-gradient(transparent, rgba(0, 0, 0, 0.05));
+  background: rgba(49, 50, 51, 0.85) -webkit-linear-gradient(transparent, rgba(49, 50, 51, 0.05));
+  background: rgba(49, 50, 51, 0.85) linear-gradient(transparent, rgba(49, 50, 51, 0.05));
   box-shadow: none;
 }
 .ui.inverted.block.header {
@@ -334,10 +334,10 @@ a.ui.red.header:hover {
 
 /* Inverted */
 .ui.inverted.red.header {
-  color: #FF695E !important;
+  color: rgba(238, 28, 36, 0.85) !important;
 }
 a.ui.inverted.red.header:hover {
-  color: #ff5144 !important;
+  color: rgba(234, 6, 15, 0.85) !important;
 }
 
 /*--- Orange ---*/
@@ -354,10 +354,10 @@ a.ui.orange.header:hover {
 
 /* Inverted */
 .ui.inverted.orange.header {
-  color: #FF851B !important;
+  color: rgba(240, 133, 44, 0.85) !important;
 }
 a.ui.inverted.orange.header:hover {
-  color: #ff7701 !important;
+  color: rgba(249, 118, 9, 0.85) !important;
 }
 
 /*--- Olive ---*/
@@ -394,10 +394,10 @@ a.ui.yellow.header:hover {
 
 /* Inverted */
 .ui.inverted.yellow.header {
-  color: #FFE21F !important;
+  color: rgba(241, 237, 51, 0.85) !important;
 }
 a.ui.inverted.yellow.header:hover {
-  color: #ffdf05 !important;
+  color: rgba(250, 245, 17, 0.85) !important;
 }
 
 /*--- Green ---*/
@@ -414,10 +414,10 @@ a.ui.green.header:hover {
 
 /* Inverted */
 .ui.inverted.green.header {
-  color: #2ECC40 !important;
+  color: rgba(126, 172, 107, 0.85) !important;
 }
 a.ui.inverted.green.header:hover {
-  color: #22be34 !important;
+  color: rgba(110, 166, 88, 0.85) !important;
 }
 
 /*--- Teal ---*/
@@ -454,10 +454,10 @@ a.ui.blue.header:hover {
 
 /* Inverted */
 .ui.inverted.blue.header {
-  color: #54C8FF !important;
+  color: rgba(11, 106, 161, 0.85) !important;
 }
 a.ui.inverted.blue.header:hover {
-  color: #3ac0ff !important;
+  color: rgba(3, 92, 144, 0.85) !important;
 }
 
 /*--- Violet ---*/
@@ -494,10 +494,10 @@ a.ui.purple.header:hover {
 
 /* Inverted */
 .ui.inverted.purple.header {
-  color: #DC73FF !important;
+  color: rgba(125, 67, 99, 0.85) !important;
 }
 a.ui.inverted.purple.header:hover {
-  color: #d65aff !important;
+  color: rgba(111, 56, 86, 0.85) !important;
 }
 
 /*--- Pink ---*/
@@ -554,10 +554,10 @@ a.ui.grey.header:hover {
 
 /* Inverted */
 .ui.inverted.grey.header {
-  color: #DCDDDE !important;
+  color: #EFF1F2 !important;
 }
 a.ui.inverted.grey.header:hover {
-  color: #cfd0d2 !important;
+  color: #e1e5e7 !important;
 }
 
 /*-------------------
@@ -613,7 +613,7 @@ a.ui.inverted.grey.header:hover {
 
 .ui.dividing.header {
   padding-bottom: 0.21428571rem;
-  border-bottom: 1px solid rgba(34, 36, 38, 0.15);
+  border-bottom: 1px solid rgba(49, 50, 51, 0.15);
 }
 .ui.dividing.header .sub.header {
   padding-bottom: 0.21428571rem;
@@ -622,7 +622,7 @@ a.ui.inverted.grey.header:hover {
   margin-bottom: 0em;
 }
 .ui.inverted.dividing.header {
-  border-bottom-color: rgba(255, 255, 255, 0.1);
+  border-bottom-color: rgba(253, 253, 253, 0.1);
 }
 
 /*-------------------
