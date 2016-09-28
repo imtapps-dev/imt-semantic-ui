@@ -33,6 +33,7 @@
     "popup",
     "sidebar",
     "transition",
+    "card",
     "item"
   ],
   "permission": false,
