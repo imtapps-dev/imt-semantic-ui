@@ -26,10 +26,10 @@
     Brand Colors
 --------------------*/
 
-@primaryColor        : @red;
+@primaryColor        : @blue;
 @secondaryColor      : @black;
 
-@lightPrimaryColor   : @lightRed;
+@lightPrimaryColor   : @lightBlue;
 @lightSecondaryColor : @lightBlack;
 
 /*-------------------
