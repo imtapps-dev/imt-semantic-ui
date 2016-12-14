@@ -42,7 +42,8 @@
     "sidebar",
     "transition",
     "card",
-    "item"
+    "item",
+    "statistic"
   ],
   "permission": false,
   "autoInstall": false,
